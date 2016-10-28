@@ -12,6 +12,7 @@ Before talking to Alexa, there are three steps to complete:
 1. Create an Amazon developer account, then register your Alexa device.
 Please check out NovaSpirit's video on YouTube to take care of these 
 requirements - ignore anything specific to the Raspberry Pi.
+URL: https://www.youtube.com/watch?v=frH9HaQTFL8
 
 2. Run the install-deps.sh script to grab the necessary dependencies for your
 system.  Note, these are for a Debian-based OS.  Others systems will require
