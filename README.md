@@ -2,8 +2,8 @@ Acknowledgements
 ================
 Portions of this project are based on the work of Sam Munchin and his
 AlexaPi project.  This represents a cut-down version of his work to establish
-a bare-minimum cross-platform means to access the Alexa Voice Service (AVS).
-
+a bare-minimum cross-platform means to access the Alexa Voice Service (AVS)
+on any Linux platform (PC or embedded) capable of meeting the dependencies.
 
 Installation instructions
 =========================
