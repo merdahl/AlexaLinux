@@ -5,6 +5,13 @@ AlexaPi project.  This represents a cut-down version of his work to establish
 a bare-minimum cross-platform means to access the Alexa Voice Service (AVS)
 on any Linux platform (PC or embedded) capable of meeting the dependencies.
 
+In it's current form, the script will initiate a single interaction with AVS,
+i.e., Alexa will respond to a single question, then exit.  This is nice for
+simple testing, or embedding into another script.  A simple change to the
+script would allow for continuous question-and-answer sessions.
+
+Streaming music is not supported with this version.
+
 Installation instructions
 =========================
 Before talking to Alexa, there are three steps to complete:
